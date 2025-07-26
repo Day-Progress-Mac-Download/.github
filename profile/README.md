@@ -38,9 +38,22 @@
 
 ## 📌 About
 
-**Day Progress** is a lightweight macOS menu bar utility that displays a dynamic progress bar showing how much of the current day has passed. Designed for those who value time-awareness without clutter.
+📄 Day Progress for macOS — Minimal Time Awareness Utility
+Day Progress is a lightweight, elegant utility for macOS that visually displays how much of your day has passed — right in the menu bar. Designed for focused individuals, freelancers, and time-conscious users, this tool transforms the way you perceive time by showing a clean progress indicator that updates in real-time.
 
-No widgets. No distractions. Just clean UI, battery-friendly operation, and native feel.
+Once launched, Day Progress runs silently in the background and embeds a percentage or graphical bar into your macOS menu bar. Whether you're managing tasks, working under deadlines, or simply trying to stay more aware of your daily routine, this app offers instant insight into your time usage.
+
+There’s no setup required — install and go. However, advanced users can customize the display format, switch to night mode, change the color of the bar, or toggle between icon visibility and percentage view.
+
+Why People Love Day Progress:
+
+-Ultra-minimal design that blends perfectly with macOS aesthetics
+
+-Live progress of the current day in percentage
+
+-Enhances time mindfulness and task structuring
+
+-Useful for time tracking without distractions
 
 ---
 
@@ -90,9 +103,40 @@ Designed to remind you time is your greatest resource.
 
 ## 🔍 SEO Keywords
 
-`day progress mac` `day progress mac app` `mac menu bar time`  
-`mac time tracker` `macos progress bar app` `menu bar visualizer`  
-`macos productivity app` `day tracker mac` `menu bar day view`  
-`apple silicon menu utility` `macos minimalist tools`  
-`track your day mac` `macos progress indicator` `macos time awareness`
-
+Day Progress mac
+Day Progress for mac
+Day Progress download
+Day Progress mac download
+download Day Progress for mac
+Day Progress macOS
+Day Progress macOS download
+Day Progress full version mac
+Day Progress latest version
+Day Progress utility for mac
+install Day Progress mac
+Day Progress app macOS
+Day Progress time tracker mac
+Day Progress progress bar mac
+Day Progress percentage mac
+mac menu bar Day Progress
+mac time bar Day Progress
+Day Progress menu utility mac
+macOS time tracker Day Progress
+Day Progress mac free
+Day Progress mac setup
+Day Progress for MacBook
+Day Progress for MacBook Air
+Day Progress for MacBook Pro
+Day Progress M1 mac
+Day Progress M2 mac
+Day Progress M3 mac
+Day Progress Apple Silicon
+Day Progress Intel mac
+Day Progress .dmg mac
+Day Progress dmg download
+Day Progress direct download mac
+Day Progress offline mac app
+get Day Progress on mac
+mac tool Day Progress
+Day Progress desktop tracker mac
+macOS productivity tool Day Progress
